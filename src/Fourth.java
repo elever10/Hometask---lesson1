@@ -1,8 +1,8 @@
 /**
  * Created by elve on 10/27/2016.
  */
-public class My_test2 {
+public class Fourth {
     public static void main(String[] args) {
-        System.out.println("for second method - text1");
+        System.out.println("Мой первый класс на Java");
     }
 }
